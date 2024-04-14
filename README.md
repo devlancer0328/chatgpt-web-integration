@@ -4,8 +4,6 @@ Certainly! Here's the updated README.md with a section for screenshots:
 
 # GPT Web Integration
 
-![GPT Web Integration Banner](https://via.placeholder.com/800x300)
-
 ## Introduction
 
 This repository contains a web application that integrates GPT (Generative Pre-trained Transformer) using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with the OpenAI API. The application allows users to interact with the GPT model through a web interface.
@@ -33,8 +31,8 @@ main-folder
 
 ## Screenshots
 
-![chat1](https://github.com/saifiimuhammad/GPT-Web-Integration/assets/99310347/1c6319e2-8b7a-47d4-91e8-fd7dbffdfc9e)
 ![chat2](https://github.com/saifiimuhammad/GPT-Web-Integration/assets/99310347/aadeabcc-5d6f-4fd4-a556-313f818055f7)
+![chat1](https://github.com/saifiimuhammad/GPT-Web-Integration/assets/99310347/1c6319e2-8b7a-47d4-91e8-fd7dbffdfc9e)
 
 ## How to Use
 
