@@ -6,7 +6,7 @@ Certainly! Here's the updated README.md with a section for screenshots:
 
 ## Introduction
 
-This repository contains a web application that integrates GPT (Generative Pre-trained Transformer) using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with the OpenAI API. The application allows users to interact with the GPT model through a web interface.
+This repository contains a web application that integrates GPT (Generative Pre-trained Transformer) using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with the OpenAI API. The application allows users to interact with the GPT model through a web interface. This project was my internship task at CodeAlpha.
 
 ## Technologies Used
 
