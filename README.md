@@ -1,7 +1,3 @@
-Certainly! Here's the updated README.md with a section for screenshots:
-
----
-
 # GPT Web Integration
 
 ## Introduction
